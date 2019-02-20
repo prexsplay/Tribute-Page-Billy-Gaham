@@ -1,0 +1,27 @@
+body{
+  padding-top:60px;
+  color:white;
+}
+.container{
+  background:#657;
+}
+
+.jumbotron{
+  
+}
+.blockquote-footer{
+  color:inherit;
+}
+footer{
+  color:black;
+}
+.pdb{
+  padding-bottom:50px;
+  background: #E1D275;
+}
+ h1{
+  color:#063048;
+}
+.title{
+  color:#063048;
+}
