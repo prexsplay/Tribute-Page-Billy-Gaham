@@ -7,7 +7,7 @@ body{
 }
 
 .jumbotron{
-  
+  border: solid rgba(102, 102, 204, 0.925) 1px;
 }
 .blockquote-footer{
   color:inherit;
